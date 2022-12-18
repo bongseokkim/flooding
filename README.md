@@ -44,8 +44,14 @@ training loss when it reaches a reasonably small value
 ### Flood with backward way 
 <img src="https://github.com/bongseokkim/flooding/blob/main/picture/picture_4.PNG"  width="60%">
 
+
 ### Heuristic search to find flood level 
 <img src="https://github.com/bongseokkim/flooding/blob/main/picture/picture_6.PNG"  width="60%">
 
 ### result 
++ There is a tendency to lower the training acc itself which lead to lower test acc (backward way)
++ huristic search + backward,  works somewhat well, but  but worse than orign flooding
+
+<img src="https://github.com/bongseokkim/flooding/blob/main/picture/pictire_8.PNG"  width="60%">
+
 <img src="https://github.com/bongseokkim/flooding/blob/main/picture/picture_7.PNG"  width="50%">
